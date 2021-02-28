@@ -1,7 +1,3 @@
-package com.main;
-
-import com.neuralnetwork.advanced.*;
-
 public class Debug {
 	public static void main(String[] args) {
 		
